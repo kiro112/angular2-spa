@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kiro112/angular2-spa/issues"
   },
-  "homepage": "https://github.com/kiro112/angular2-spa#readme"
+  "homepage": "https://github.com/kiro112/angular2-spa#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.1.3"
+  }
 }
