@@ -1,0 +1,18 @@
+{
+  "name": "angular2-spa",
+  "homepage": "https://github.com/kiro112/angular2-spa",
+  "authors": [
+    "Jairo Malanay <jairo.malanay@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
